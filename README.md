@@ -6,7 +6,7 @@ Field phenotyping data analysis from KAUST internship. Includes trait distributi
  **Focus:** Digital phenotyping and statistical evaluation of plant traits.
  **Key Skill:** Advanced R (Tidyverse), Hypothesis Testing, and Phenotypic Visualization (ggplot2).
 
-# Plant Phenomics & Field Data Analysis (KAUST) 🌾📊
+# Plant Phenomics & Field Data Analysis (KAUST) 
 
 This repository contains R scripts developed during my research internship at **KAUST** (King Abdullah University of Science and Technology) in the **Jesse Poland Lab**.
 
